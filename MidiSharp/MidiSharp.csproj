@@ -12,6 +12,7 @@ This package is a .NET Standard fork of the original repository: https://github.
     <PackageTags>music, midi</PackageTags>
     <PackageReleaseNotes>Initial .NET Standard 2.0 release.</PackageReleaseNotes>
     <Authors>Stephen Toub</Authors>
+    <PackageId>MidiSharp.NetStandard</PackageId>
   </PropertyGroup>
 
 </Project>
